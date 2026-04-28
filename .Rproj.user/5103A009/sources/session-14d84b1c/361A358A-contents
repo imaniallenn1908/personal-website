@@ -1,8 +1,5 @@
 name: "Imani-Allen,-MPH"
 
-output_dir: 
-docs
-
 navbar:
   left:
   - text: Home
@@ -29,3 +26,5 @@ output:
     css: style.css
     includes:
       in_headeer: header.html
+      
+output_dir: docs
