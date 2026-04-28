@@ -1,0 +1,18 @@
+---
+title: "Projects"
+---
+
+<div class="row">
+
+<div class="col-sm-6">
+<a href="https://imaniallenn1908.shinyapps.io/washfit_app/" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">DATA 555 Dashboard</h3>
+</div>
+<div class="panel-body">
+<p>An interactive shiny dashboard created for DATA 555. The dashboard interprets Water, Sanitation, and Hygiene (WASHFIT) assessments done in primary healthcare facilities in the Diamaguene Sicap Mbao commune in Dakar Senegal. </p>
+</div>
+</div>
+</a>
+</div>

@@ -1,8 +1,30 @@
-name: "my-website"
+name: "Imani-Allen,-MPH"
+
+output_dir: docs
+
 navbar:
-  title: "My Website"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  - text: Projects
+    href: projects.html
+    icon: fa-laptop
+  - text: Resume
+    href: 2026\Resume.pdf
+    icon: fa-file-pdf-o
+  right:
+  - href: https://github.com/imaniallenn1908
+    icon: fa-github-square
+  - href: https://www.linkedin.com/in/imani-allen-a5750121b/
+    icon: fa-linkedin-square
+
+output:
+  html_document:
+    theme: cosmo
+    css: style.css
+    includes:
+      in_headeer: header.html
