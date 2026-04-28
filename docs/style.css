@@ -6,12 +6,12 @@ body {
 
 /* Default link color */
 a {
-  color: pink;
+  color: green;
   text-decoration: none;
 }
 
 /* Hover state */
 a:hover {
-  color: green; 
+  color: pink; 
   text-decoration: underline;
 }
