@@ -12,7 +12,7 @@ navbar:
     href: projects.html
     icon: fa-laptop
   - text: Resume
-    href: 2026\Resume.pdf
+    href: 2026/Resume.pdf
     icon: fa-file-pdf-o
   right:
   - href: https://github.com/imaniallenn1908
@@ -25,6 +25,6 @@ output:
     theme: cosmo
     css: style.css
     includes:
-      in_headeer: header.html
+      in_header: header.html
       
 output_dir: docs
