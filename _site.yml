@@ -1,7 +1,6 @@
 name: "Imani-Allen,-MPH"
 
-output_dir: 
-docs
+output_dir: docs
 
 navbar:
   left:
