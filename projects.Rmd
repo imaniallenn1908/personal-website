@@ -6,7 +6,7 @@ title: "Projects"
 
 <div class="col-sm-6">
 <a href="https://imaniallenn1908.shinyapps.io/washfit_app/" class="project-link">
-<div class="panel panel-default">
+<div class="panel panel-default project-card">
 <div class="panel-heading">
 <h3 class="panel-title">Dakar WASHFIT Dashboard</h3>
 </div>
@@ -17,7 +17,7 @@ title: "Projects"
 </a>
 </div>
 <div class="col-sm-6">
-<div class="panel panel-default">
+<div class="panel panel-default project-card">
 <div class="panel-heading">
 <h3 class="panel-title">Cumulative COVID Cases (Chicago, Illinois)</h3>
 </div>
@@ -36,7 +36,7 @@ View Poster PDF
 </div>
 <div class="col-sm-6">
 <a href="https://github.com/imaniallenn1908/Final_Project_GITHUB" class="project-link">
-<div class="panel panel-default">
+<div class="panel panel-default project-card">
 <div class="panel-heading">
 <h3 class="panel-title">Reproducible Data Report</h3>
 </div>
