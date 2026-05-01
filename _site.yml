@@ -12,7 +12,7 @@ navbar:
     href: projects.html
     icon: fa-laptop
   - text: Resume
-    href: 2026/Resume.pdf
+    href: files/2026Resume.pdf
     icon: fa-file-pdf-o
   right:
   - href: https://github.com/imaniallenn1908

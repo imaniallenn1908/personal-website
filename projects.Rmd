@@ -8,11 +8,41 @@ title: "Projects"
 <a href="https://imaniallenn1908.shinyapps.io/washfit_app/" class="project-link">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3 class="panel-title">DATA 555 Dashboard</h3>
+<h3 class="panel-title">Dakar WASHFIT Dashboard</h3>
 </div>
 <div class="panel-body">
 <p>An interactive shiny dashboard created for DATA 555. The dashboard interprets Water, Sanitation, and Hygiene (WASHFIT) assessments done in primary healthcare facilities in the Diamaguene Sicap Mbao commune in Dakar Senegal. </p>
 </div>
 </div>
 </a>
+</div>
+<div class="col-sm-6">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">
+        Cumulative COVID Cases (Chicago, Illinois)
+      </h3>
+    </div>
+    <div class="panel-body">
+      <p>The GitHub repository includes all source code, cleaned datasets, and reproducible analysis used to examine cumulative COVID-19 cases in Chicago zipcodes, along with scripts for data processing and visualization. All results were used to create a poster presentation.</p>
+      <a href="https://github.com/imaniallenn1908/python-chicago-COVID" 
+         class="btn btn-primary" target="_blank">
+         View GitHub Repo
+      </a>
+      <a href="files/BIOS584_EmoryPoster_template.pdf" 
+         class="btn btn-secondary" target="_blank">
+         View Poster PDF
+      </a>
+    </div>
+  </div>
+</div>
+<div class="col-sm-6">
+<a href="https://github.com/imaniallenn1908/Final_Project_GITHUB" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Reproducible Data Report</h3>
+</div>
+<div class="panel-body">
+<p>The following GitHub repository includes all source code, cleaned datasets, and reproducible analysis used to examine various health outcomes for adults with physical and mental disabilities. </p>
+</div>
 </div>
