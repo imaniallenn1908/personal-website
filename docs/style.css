@@ -15,3 +15,10 @@ a:hover {
   color: pink; 
   text-decoration: underline;
 }
+
+.project-card {
+  border: 1px solid #444;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
