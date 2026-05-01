@@ -17,6 +17,6 @@ knitr::include_graphics("images/headshot.png")
 
 Imani Allen is public health data analyst focused on advancing public health equity through research, storytelling, and community-driven solutions.  
 
-See more about Imani here: (https://www.linkedin.com/in/imani-allen-a5750121b/) 
+See more about Imani here: (https://www.linkedin.com/in/imani-allen-a5750121b) 
 
 :::
