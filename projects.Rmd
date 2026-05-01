@@ -17,24 +17,22 @@ title: "Projects"
 </a>
 </div>
 <div class="col-sm-6">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">
-        Cumulative COVID Cases (Chicago, Illinois)
-      </h3>
-    </div>
-    <div class="panel-body">
-      <p>The GitHub repository includes all source code, cleaned datasets, and reproducible analysis used to examine cumulative COVID-19 cases in Chicago zipcodes, along with scripts for data processing and visualization. All results were used to create a poster presentation.</p>
-      <a href="https://github.com/imaniallenn1908/python-chicago-COVID" 
-         class="btn btn-primary" target="_blank">
-         View GitHub Repo
-      </a>
-      <a href="files/BIOS584_EmoryPoster_template.pdf" 
-         class="btn btn-secondary" target="_blank">
-         View Poster PDF
-      </a>
-    </div>
-  </div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Cumulative COVID Cases (Chicago, Illinois)</h3>
+</div>
+<div class="panel-body">
+<p>The GitHub repository includes all source code, cleaned datasets, and reproducible analysis used to examine cumulative COVID-19 cases in Chicago zipcodes, along with scripts for data processing and visualization. All results were used to create a poster presentation. </p>
+<a href="https://github.com/imaniallenn1908/python-chicago-COVID" 
+class="btn btn-primary" target="_blank">
+View GitHub Repo
+</a>
+<a href="files/BIOS584_EmoryPoster_template.pdf" 
+class="btn btn-secondary" target="_blank">
+View Poster PDF
+</a>
+</div>
+</div>
 </div>
 <div class="col-sm-6">
 <a href="https://github.com/imaniallenn1908/Final_Project_GITHUB" class="project-link">
